@@ -1,0 +1,45 @@
+/* PAYPAL paypal.htm PAYMENT PAGE CODE */
+
+.payform	{
+		font: 13px arial, verdana, sans-serif;
+		background-image: url("picts/shadeform.gif");
+		background-color: #F0F6F9;
+		text-align: left;
+		width: 125px;
+		overflow: auto;
+		border: #99A8AF 1px solid;
+		}
+
+.payformbox	{
+		background-color: transparent;
+		border: #CFD7DF 1px solid;
+		}
+
+.payformmargin	{ margin: 0px; }
+
+.payformbutton	{ width: 125px; }
+
+
+
+
+body,p,table,tr,td,legend
+{
+	font-family: Trebuchet MS;
+	color: #000000;
+	font-size: 10pt;
+}
+
+.error
+{
+	color: #FF9933;
+}
+
+.description
+{
+	color: #000000;
+}
+
+a:link       { font-family: Trebuchet MS; color: #000000; text-decoration: none; font-size: 10pt; font-weight:bold } /* unvisited link */
+a:visited    { font-family: Trebuchet MS; color: #000000; text-decoration: none; font-size: 10pt; font-weight:bold } /* visited link */
+a:hover      { font-family: Trebuchet MS; color: #0000ff; text-decoration: underline; font-size: 10pt; font-weight:bold } /* mouse over link */
+a:active     { font-family: Trebuchet MS; color: #000000; text-decoration: none; font-size: 10pt; font-weight:bold } /* selected link */

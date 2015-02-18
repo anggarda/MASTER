@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	maxImageWidth="768"
+	maxImageHeight="468"
+	imageQuality="80"
+	thumbWidth="75"
+	thumbHeight="75"
+	thumbQuality="90"
+	cropToFit="true"
+	useFlickr="false"
+	resizeOnImport="true"
+	textColor="FFFFFF"
+	frameColor="000000"
+	frameWidth="20"
+	thumbColumns="3"
+	thumbRows="1"
+	thumbPosition="BOTTOM"
+
+>
+  <image imageURL="images/Lobby Depan2.jpg"
+	thumbURL="thumbs/Lobby Depan2.jpg"
+	linkURL="images/Lobby Depan2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Lobby Depan3.jpg"
+	thumbURL="thumbs/Lobby Depan3.jpg"
+	linkURL="images/Lobby Depan3.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Lobby Depan-1.jpg"
+	thumbURL="thumbs/Lobby Depan-1.jpg"
+	linkURL="images/Lobby Depan-1.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Loy Krathong-1.jpg"
+	thumbURL="thumbs/Loy Krathong-1.jpg"
+	linkURL="images/Loy Krathong-1.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Loy Krathong-2.jpg"
+	thumbURL="thumbs/Loy Krathong-2.jpg"
+	linkURL="images/Loy Krathong-2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Ruang Refleksi-2.jpg"
+	thumbURL="thumbs/Ruang Refleksi-2.jpg"
+	linkURL="images/Ruang Refleksi-2.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>
